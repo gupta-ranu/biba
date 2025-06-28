@@ -2,7 +2,7 @@ function App() {
   return(
     <div>
       <div className="nav1">
-        <h5>👋 Made By Ranu Gupta</h5>
+        <h3>👋 Made By Ranu Gupta</h3>
         
         <p>
           Let’s Summer Up - Dive into Fresh Styles!
