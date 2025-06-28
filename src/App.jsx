@@ -2,8 +2,9 @@ function App() {
   return(
     <div>
       <div className="nav1">
+        <h5>👋 Made By Ranu Gupta</h5>
+        
         <p>
-          This website is created by [Ranu Gupta]
           Let’s Summer Up - Dive into Fresh Styles!
         </p>
       </div>
